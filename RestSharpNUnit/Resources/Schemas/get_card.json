@@ -1,0 +1,23 @@
+{
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "dateLastActivity",
+    "desc"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "dateLastActivity": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "string"
+    }
+  }
+}
