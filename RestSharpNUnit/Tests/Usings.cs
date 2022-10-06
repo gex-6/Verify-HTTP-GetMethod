@@ -5,3 +5,5 @@ global using NUnit.Framework;
 global using RestSharp;
 global using Newtonsoft.Json.Linq;
 global using Newtonsoft.Json.Schema;
+global using RestSharpNUnit;
+global using RestSharpNUnit.Consts;
